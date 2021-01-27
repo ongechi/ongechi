@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...weird
 - ⚡ Fun fact: ...i love space tracking
 -->
+github username - ongechi
+github email - patrickongechi005@gmail.com
