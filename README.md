@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... the unbeatable
 - ⚡ Fun fact: ...i love space tracking
 -->
-github username - ongechi
-github email - patrickongechi005@gmail.com
+really love fun 
+and am not a robot
 
