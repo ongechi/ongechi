@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... the unbeatable
 - ⚡ Fun fact: ...i love space tracking
 -->
-really love fun 
-and am not a robot
+really love fun and coding
 
