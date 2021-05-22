@@ -1,4 +1,5 @@
-### Hi there 👋 am patrick ongechi a webdeveloper and God fearing
+### Hi there 👋 am patrick ongechi, software developer and am passionate about it serving is my priority and really love interacting and sharing ideas.
+
 
 <!--
 **ongechi/ongechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
